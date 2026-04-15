@@ -3,12 +3,23 @@
     <channel>
         <title>Grove</title>
         <item>
+            <title>0.5.17</title>
+            <pubDate>Tue, 14 Apr 2026 20:02:33 -0700</pubDate>
+            <sparkle:version>0.5.17</sparkle:version>
+            <sparkle:shortVersionString>0.5.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.5.17/Grove-0.5.17.dmg" length="24288053" type="application/octet-stream" sparkle:edSignature="RzLiUBbyl4//uCrOW9VUUve/ML+XFafjA/mHh+xHiGzOw/8pYuNPX9RUcWvY3WDlg1zeWO0gCZ7YLLapjokRDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.5.17/Grove0.5.17-0.5.16.delta" sparkle:deltaFrom="0.5.16" length="17526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0R2XOucT4M0fPbAXvV6WaTsOoxwTcnojCcIaiI9bNJjn6jk9zUNJaa/6c7be9Q6I1Gt4FZ4Ogu88j4Jzq/FQCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.5.16</title>
             <pubDate>Tue, 14 Apr 2026 19:47:29 -0700</pubDate>
             <sparkle:version>0.5.16</sparkle:version>
             <sparkle:shortVersionString>0.5.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.5.16/Grove-0.5.16.dmg" length="24288065" type="application/octet-stream" sparkle:edSignature="+Yhc3tI0u5117w0rGAnZNyR4v/Qh9ORM2NQctKiDaIOKK35BemgUSv8GyeR3npjkPEMJ3fIU47X6MKB/cabRDA=="/>
+            <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.5.17/Grove-0.5.16.dmg" length="24288065" type="application/octet-stream" sparkle:edSignature="+Yhc3tI0u5117w0rGAnZNyR4v/Qh9ORM2NQctKiDaIOKK35BemgUSv8GyeR3npjkPEMJ3fIU47X6MKB/cabRDA=="/>
         </item>
     </channel>
 </rss>
