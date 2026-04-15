@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Grove</title>
+        <item>
+            <title>0.5.16</title>
+            <pubDate>Tue, 14 Apr 2026 19:47:29 -0700</pubDate>
+            <sparkle:version>0.5.16</sparkle:version>
+            <sparkle:shortVersionString>0.5.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.5.16/Grove-0.5.16.dmg" length="24288065" type="application/octet-stream" sparkle:edSignature="+Yhc3tI0u5117w0rGAnZNyR4v/Qh9ORM2NQctKiDaIOKK35BemgUSv8GyeR3npjkPEMJ3fIU47X6MKB/cabRDA=="/>
+        </item>
+    </channel>
+</rss>
