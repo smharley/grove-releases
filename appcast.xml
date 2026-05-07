@@ -3,12 +3,27 @@
     <channel>
         <title>Grove</title>
         <item>
+            <title>0.6.9</title>
+            <pubDate>Thu, 07 May 2026 13:04:14 -0700</pubDate>
+            <sparkle:version>0.6.9</sparkle:version>
+            <sparkle:shortVersionString>0.6.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.9/Grove-0.6.9.dmg" length="25331034" type="application/octet-stream" sparkle:edSignature="YrLY0e5m8Vkt+Mn1ttNJd8lBJzTAUSVU9o/1R24FnsTaD/ldXoOSOcJNx+4F49VflfXzKVMFoTEbQ9st2m3vCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.9/Grove0.6.9-0.6.8.delta" sparkle:deltaFrom="0.6.8" length="2113982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OiL78Q2lb5aLPmX6MoE1KIPQOnPHW9mFRkKvtiniN/MwJrvH57B9vetx9/rktW7fUyyaCmuzfHFXWRF0faEsBw=="/>
+                <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.9/Grove0.6.9-0.6.7.delta" sparkle:deltaFrom="0.6.7" length="2483106" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NVs6GRvXzDtt45E5h7vP6XzinkRigY9sl36tLTJ3w5s7NcFQni7c1dQir8/vzZHdhO59ZpKh+75PUdmR7rACCQ=="/>
+                <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.9/Grove0.6.9-0.6.6.delta" sparkle:deltaFrom="0.6.6" length="2482510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZdH4hjFmnZOGfP2PiCEW4FZXDCdAY836VECXP8i/gXZ5FXS8xyfp4nAYwKu9bKoiIquRuwU1CITdybRiERrKDA=="/>
+                <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.9/Grove0.6.9-0.6.5.delta" sparkle:deltaFrom="0.6.5" length="2556722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IfMgISyQJEVg/y0ykYTxOOPbng1wtlTmHZlEzQJrPZMhVKMTYxO1VFseBISQXVv0CkfH1QIBSEt7Z6EpiEGdCg=="/>
+                <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.9/Grove0.6.9-0.6.4.delta" sparkle:deltaFrom="0.6.4" length="2599234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wPMjyOSJCxJvwPIUJ0h24WCI10Ojq26Vaow7E0wcwuCzfXBUjVHqZvnc3G5aMwKLaGVciidzj5UJfpT0b/1ABQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.6.8</title>
             <pubDate>Mon, 27 Apr 2026 11:41:48 -0700</pubDate>
             <sparkle:version>0.6.8</sparkle:version>
             <sparkle:shortVersionString>0.6.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.8/Grove-0.6.8.dmg" length="24968673" type="application/octet-stream" sparkle:edSignature="afKhl2onaekrxuyc6tSESVsPBrV7FmPwO6zimuz1xb7erNf8mej6E2vyhZLnmlqtCYj4nARQ7eaqRihIggKQBA=="/>
+            <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.9/Grove-0.6.8.dmg" length="24968673" type="application/octet-stream" sparkle:edSignature="afKhl2onaekrxuyc6tSESVsPBrV7FmPwO6zimuz1xb7erNf8mej6E2vyhZLnmlqtCYj4nARQ7eaqRihIggKQBA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.8/Grove0.6.8-0.6.7.delta" sparkle:deltaFrom="0.6.7" length="1861714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="igE2xkidt3SM07UNBwzLOlaK/SpbqrIZ8I36+KXvsrN2h6Xxy0pluL2zq+H3osJeJZxCl7gL8H0CXCQIkpJ6DA=="/>
                 <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.8/Grove0.6.8-0.6.6.delta" sparkle:deltaFrom="0.6.6" length="1865550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rpEIAM8aD9pAZ4dQyaKbsaZIOcNu9yfBBVwAWp4wsR3hH+e8lUDznCx7e63DeBai8BkMe0o765jItZQpFEO7AA=="/>
@@ -23,28 +38,13 @@
             <sparkle:version>0.6.7</sparkle:version>
             <sparkle:shortVersionString>0.6.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.8/Grove-0.6.7.dmg" length="24624665" type="application/octet-stream" sparkle:edSignature="i4gSvmryBg+C+yURgJKUqoDOJYN5f14OkE+DV0Yn14NDYBTpwSX2/P6XSw4+iykNyEbwofKKmAHVT/cszq1FAA=="/>
+            <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.9/Grove-0.6.7.dmg" length="24624665" type="application/octet-stream" sparkle:edSignature="i4gSvmryBg+C+yURgJKUqoDOJYN5f14OkE+DV0Yn14NDYBTpwSX2/P6XSw4+iykNyEbwofKKmAHVT/cszq1FAA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.7/Grove0.6.7-0.6.6.delta" sparkle:deltaFrom="0.6.6" length="948454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+RqcnZshc/XUytIbjXiBlYHFXgvOyYk0JDo+uPV48J0vVsttE6iljAIRZ/FehhZkcR7ErwxAl/JPiXG09PH+BQ=="/>
                 <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.7/Grove0.6.7-0.6.5.delta" sparkle:deltaFrom="0.6.5" length="1248626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GAY8I9GyNzG8v9qAJeuNLwmMnxteky2GY9Ux3/B+WeCVtLfEWYfpSD7hzBmy0aiEMN0IrcPKNVJnGnkayme0DA=="/>
                 <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.7/Grove0.6.7-0.6.4.delta" sparkle:deltaFrom="0.6.4" length="1482306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sNOcFl2VF5MP/kqqwL5AgxdL5NRlNIwyDPQd8qGmW31rfgNU1X98PjCwVcaBU3tmca8Ip/GI4bR9uJ+Hd3jEBw=="/>
                 <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.7/Grove0.6.7-0.6.3.delta" sparkle:deltaFrom="0.6.3" length="1539950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="T4gB+37qkyI9i5UoUVS9WBPZX5Cdbec/lc+8EWNcXdUg9Ck4VhXQla0Wy7YQwhJLLVWx+qcHVXo5l4XoVQ0mAQ=="/>
                 <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.7/Grove0.6.7-0.6.2.delta" sparkle:deltaFrom="0.6.2" length="1731178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dLnlOv9N9NEU44osPXGL0PJ9knX/m3GxbvMfmHa1bSh1WbAZYvs8z27E2mE+0hKDqPJCjHxtYXWzZe9WM7pkDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.6.6</title>
-            <pubDate>Thu, 23 Apr 2026 09:26:15 -0700</pubDate>
-            <sparkle:version>0.6.6</sparkle:version>
-            <sparkle:shortVersionString>0.6.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.8/Grove-0.6.6.dmg" length="24625037" type="application/octet-stream" sparkle:edSignature="xt9AtabIpQ4eoNkKgblpdmNhGhbRxCiYKTddDZbxdss+ZGf69bCKkD/7EbWbokUHPd3JfcuTmi6cn80CYOWnDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.6/Grove0.6.6-0.6.5.delta" sparkle:deltaFrom="0.6.5" length="1185034" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iELzz8Ue62/6ohvHibNui94MiAJAtpaTeltBEdvCRD037gSXOsCv++h+w7SSOEY8wpRnn5DStrcWBeW7kRiICA=="/>
-                <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.6/Grove0.6.6-0.6.4.delta" sparkle:deltaFrom="0.6.4" length="1472518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ALjTdLqItUR5VevoWQp0tdcxNHUtBB+PoEBym8seMaCWvcX4yUxO5NX3HcR9eFR6FTSiu8XStGPiUCuVg6SzCw=="/>
-                <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.6/Grove0.6.6-0.6.3.delta" sparkle:deltaFrom="0.6.3" length="1529594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sgfabSmq1GC0qTo0ZZ9EkBA3qQ182M7P/FRVRn2YKjiO3yFAGvGz7+NuTRY6p+rnYLWH/mzq2o9tpPjio6qTBQ=="/>
-                <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.6/Grove0.6.6-0.6.2.delta" sparkle:deltaFrom="0.6.2" length="1712062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="a3mW0Oq6ggML1vP9VVe088dYBRUl5siFkxq+UOIrgHsAOHhwHRgcD0o9N2aFG9qogsf338+CvR5kNnAnnssgDw=="/>
-                <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.6/Grove0.6.6-0.6.1.delta" sparkle:deltaFrom="0.6.1" length="1856258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AIGNBrsdJxIRBBJcilJk8EJFpzv9BZPPPOMJwFfNDEoSd4r+Zqfy9OajkbedfG6+m3vNEhe1722lzfRvX9YPAQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
