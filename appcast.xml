@@ -3,12 +3,23 @@
     <channel>
         <title>Grove</title>
         <item>
-            <title>0.6.11</title>
-            <pubDate>Wed, 05 Aug 2026 16:27:51 -0700</pubDate>
-            <sparkle:version>0.6.11</sparkle:version>
-            <sparkle:shortVersionString>0.6.11</sparkle:shortVersionString>
+            <title>0.6.12</title>
+            <pubDate>Wed, 26 Aug 2026 10:32:49 -0700</pubDate>
+            <sparkle:version>0.6.12</sparkle:version>
+            <sparkle:shortVersionString>0.6.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.11/Grove-0.6.11.dmg" length="26023057" type="application/octet-stream" sparkle:edSignature="UZtJLln83YvYnM2QNztOL2Z+hYJCfLnPv5KPVag4zf7Abuy0cEbnK+opOx+EYcY5GF3f330g8aatq2GPTthGCg=="/>
+            <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.12/Grove-0.6.12.dmg" length="26818419" type="application/octet-stream" sparkle:edSignature="bDxJWtwZ5uqvLUfGsnZqQGmAlK1VQkDOEreB9xiCKK7d/cG8Um0wR4e7xlJ9o8a8sw78dq8i4PGrzjFPGV13Bw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.12/Grove0.6.12-0.6.10.delta" sparkle:deltaFrom="0.6.10" length="2593122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JLaDJIsdAz9L8yTtsmRn3T79Q0Qhtln7+3dKZt0rAunstV6adkXjT5r/3JpljSjeRbFd83KH4Wl5u8wzdFxEDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.6.10</title>
+            <pubDate>Wed, 22 Jul 2026 16:42:35 -0700</pubDate>
+            <sparkle:version>0.6.10</sparkle:version>
+            <sparkle:shortVersionString>0.6.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.6.12/Grove-0.6.10.dmg" length="25970621" type="application/octet-stream" sparkle:edSignature="2bsWh2GeEnm7MA1JzCm5rBvUuqJadDZOIiSgv6ETAJwE2Q3b6Ex1rj2UzkZgmk4Armoih2kFp9dC5Jnr3M9UCA=="/>
         </item>
     </channel>
 </rss>
