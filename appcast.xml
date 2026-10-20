@@ -3,12 +3,12 @@
     <channel>
         <title>Grove</title>
         <item>
-            <title>0.7.16</title>
-            <pubDate>Tue, 20 Oct 2026 09:16:15 -0700</pubDate>
-            <sparkle:version>0.7.16</sparkle:version>
-            <sparkle:shortVersionString>0.7.16</sparkle:shortVersionString>
+            <title>0.7.17</title>
+            <pubDate>Tue, 20 Oct 2026 10:43:17 -0700</pubDate>
+            <sparkle:version>0.7.17</sparkle:version>
+            <sparkle:shortVersionString>0.7.17</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.7.16/Grove-0.7.16.dmg" length="32102563" type="application/octet-stream" sparkle:edSignature="vOT3BwZjDlinkqiDjtaMG68owdvSDVmdfxXZHlZQpeFoPdklqyOf2pDjKd+Sk02WWI1sEuoreuT9QiknS7j7DA=="/>
+            <enclosure url="https://github.com/smharley/grove-releases/releases/download/v0.7.17/Grove-0.7.17.dmg" length="32164219" type="application/octet-stream" sparkle:edSignature="v6L7yhq3pqVLe26MlLuBr1UQ933VBwR4gCSDGogguqGx+V/C98PIBTIRJFeTvCl0/k0DBId6DDF9isMwKL76AQ=="/>
         </item>
     </channel>
 </rss>
